@@ -314,45 +314,8 @@ Lab 1 follows the **same 13-topic structure** as the lecture — students write 
 
 ---
 
-## 📁 Repository Structure
 
-```
-java-oop-lecture-series/
-│
-├── 📄 README.md
-│
-├── 📖 lecture/
-│   ├── 01-java-overview.md
-│   ├── 02-class-and-object.md
-│   ├── 03-encapsulation.md
-│   ├── 04-inheritance.md
-│   ├── 05-polymorphism.md
-│   ├── 06-abstract-class.md
-│   ├── 07-interfaces.md
-│   ├── 08-inner-classes.md
-│   ├── 09-static-and-final.md
-│   ├── 10-packages.md
-│   ├── 11-exception-handling.md
-│   ├── 12-java-io-streams.md
-│   └── 13-java-generics.md
-│
-└── 🧪 lab-1/
-    ├── src/
-    │   ├── 01_JavaOverview/
-    │   ├── 02_ClassAndObject/
-    │   ├── 03_Encapsulation/
-    │   ├── 04_Inheritance/
-    │   ├── 05_Polymorphism/
-    │   ├── 06_AbstractClass/
-    │   ├── 07_Interfaces/
-    │   ├── 08_InnerClasses/
-    │   ├── 09_StaticAndFinal/
-    │   ├── 10_Packages/
-    │   ├── 11_ExceptionHandling/
-    │   ├── 12_JavaIOStreams/
-    │   └── 13_JavaGenerics/
-    └── exercises/
-```
+
 
 ---
 
@@ -370,14 +333,6 @@ Verify your installation:
 java  -version
 javac -version
 ```
-
-### 💻 Recommended IDEs
-
-| IDE | Badge | Notes |
-|---|---|---|
-| IntelliJ IDEA Community | ![IntelliJ](https://img.shields.io/badge/IntelliJ-IDEA-black?style=flat-square&logo=intellijidea) | ⭐ Recommended |
-| VS Code + Java Pack | ![VSCode](https://img.shields.io/badge/VS-Code-blue?style=flat-square&logo=visualstudiocode) | Lightweight |
-| Eclipse | ![Eclipse](https://img.shields.io/badge/Eclipse-IDE-purple?style=flat-square&logo=eclipseide) | Traditional |
 
 ---
 
