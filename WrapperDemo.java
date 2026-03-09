@@ -8,8 +8,9 @@ package programming2;
  *
  * @author aya
  */
-public class OurException extends Exception{
-    public String getMessage(){
-        return "aya test sth";
+public class WrapperDemo {
+    public static void main(String[] args) {
+        Float f =12.4f; //Auto Boxing
+        float f1 = f +12.3f; //Auto UnBoxing
     }
 }
